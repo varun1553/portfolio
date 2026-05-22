@@ -1,33 +1,59 @@
 {
   "experience": [
     {
-      "title": "Software Engineer",
-      "company": "Accoladi.com (ScholarshipAuditions.com)",
-      "start": "Oct 2024",
+      "title": "AI Trainer",
+      "company": "Micro1 Inc.",
+      "start": "May 2026",
       "end": "Present",
-      "location": "Nashville, TN",
+      "location": "Remote",
       "bullets": [
-        "Reduced API calls 35% with Angular RxJS shareReplay, improving 100K+ daily requests",
-        "Secured auth for 50K+ users: cookie-based auth, CSRF, refresh-token logic, role guards",
-        "Built AWS Lambda + SQS pipeline for 10x faster bulk student imports",
-        "Reduced staff effort 40% with Django/DRF APIs for media, chat, tickets, bulk-jobs",
-        "Automated 100% post-payment onboarding via Stripe webhooks + DocuSeal",
-        "Cut incident triage 50% with RxJS WebSocket streams + Sentry/AWS X-Ray tracing"
+        "Trained and evaluated Large Language Models (LLMs) by designing prompts and validating AI-generated outputs",
+        "Improved response reliability by 30% through collaboration with engineering teams on context management and model refinement",
+        "Analyzed AI outputs using Python, pandas, and NumPy to identify errors and enhance model accuracy"
       ],
-      "tech": ["Angular", "Django", "AWS Lambda", "SQS", "RxJS", "Stripe", "Sentry"]
+      "tech": ["Python", "LLMs", "Pandas", "NumPy", "Prompt Engineering"]
+    },
+    {
+      "title": "Software Developer",
+      "company": "Kalven Technologies",
+      "start": "Jul 2025",
+      "end": "Mar 2026",
+      "location": "Dallas, TX",
+      "bullets": [
+        "Developed RESTful APIs with Node.js and React, enabling enterprise platforms to process 15% more transactions daily",
+        "Built Python-based data pipelines that transformed raw datasets into structured JSON outputs, reducing report generation time by 50%",
+        "Improved system performance by 30% through debugging, code optimization, and secure coding practices following OWASP standards",
+        "Collaborated in Agile/Scrum workflows and supported production deployments to maintain application resiliency"
+      ],
+      "tech": ["Node.js", "React", "Python", "REST APIs", "AWS", "Agile"]
+    },
+    {
+      "title": "Software Engineer",
+      "company": "eGlobal Doctors",
+      "start": "Aug 2023",
+      "end": "May 2025",
+      "location": "Dallas, TX",
+      "bullets": [
+        "Developed API-driven web applications with Next.js and Angular, reducing API error rates and improving service reliability",
+        "Designed scalable backend services for scheduling, payments, and account management, supporting 30% higher user traffic",
+        "Optimized AWS-hosted SQL databases through indexing and query tuning, improving reporting performance and accessibility",
+        "Led code reviews and mentored junior developers, improving onboarding speed and reducing review cycle times"
+      ],
+      "tech": ["Next.js", "Angular", "AWS", "SQL", "Postman", "GitLab"]
     },
     {
       "title": "Software Engineer Intern",
-      "company": "ScholarshipAuditions.com",
-      "start": "Jul 2024",
-      "end": "Oct 2024",
-      "location": "Nashville, TN",
+      "company": "eGlobal Doctors",
+      "start": "Apr 2023",
+      "end": "Jul 2023",
+      "location": "Hyderabad, India",
       "bullets": [
-        "Shipped 2 major features in 6 weeks, reducing support tickets by 25%",
-        "Resolved 15+ production issues via log analysis and root-cause debugging",
-        "Reduced deployment time 30% with Docker containerization and CI/CD"
+        "Assisted in building and testing API-driven application features using JavaScript and REST APIs",
+        "Developed backend modules with Next.js and GraphQL for scheduling and user management workflows",
+        "Collaborated with senior engineers on debugging and optimization, improving system stability and performance",
+        "Contributed to Agile sprint deliverables while gaining hands-on experience with Git workflows and code reviews"
       ],
-      "tech": ["Django", "Angular", "Docker", "PostgreSQL", "CI/CD"]
+      "tech": ["JavaScript", "Next.js", "REST APIs", "GraphQL", "Git"]
     }
   ]
 }

@@ -2,12 +2,12 @@
   "degrees": [
     {
       "degree": "Master of Science in Computer Science",
-      "institution": "University of Florida",
+      "institution": "University of North Texas",
       "start": "Aug 2023",
       "end": "May 2025",
       "details": [
-        "GPA: 3.66/4.0",
-        "Distributed OS, Advanced DS, Algorithms, Data Engineering, Networks, Mobile Computing, UX Design"
+        "GPA: 3.82/4.00",
+        "Distributed OS, Advanced DS, Algorithms, Data Engineering, Data Visualization, Advanced DBMS, AI/ML Applications"
       ]
     },
     {
@@ -16,13 +16,14 @@
       "start": "Aug 2019",
       "end": "June 2023",
       "details": [
-        "GPA: 8.82/10.0"
+        "GPA: 8.7/10.0"
       ]
     }
   ],
   "certifications": [
+    "AWS Certified Developer Associate",
     "Google Data Analytics Specialization (Coursera)",
-    "HPCC Systems Workshop Digital Badge"
+    "Generative AI using Langchain and HuggingFace"
   ],
   "learning": []
 }

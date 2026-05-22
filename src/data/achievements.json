@@ -1,15 +1,17 @@
 {
   "achievements": [
-    "Reduced API calls 35% with RxJS shareReplay across 100K+ daily requests",
-    "Secured authentication for 50K+ users with zero auth-related incidents",
-    "Built AWS Lambda + SQS pipeline enabling 10x faster bulk imports",
-    "Reduced manual staff effort by 40% with Django/DRF API automation",
-    "Automated 100% of post-payment onboarding via Stripe + DocuSeal",
-    "Cut incident triage time 50% with Sentry + AWS X-Ray tracing",
-    "Processed $10K+ in payments through timed assessment engine",
-    "Built AI classifier achieving 89.36% accuracy for content moderation",
-    "Published: 'Automation of Profile Reporting System for Misogyny Identification' (IRJET)",
-    "Google Data Analytics Specialization (Coursera)",
-    "M.Sc. Computer Science at University of Florida (GPA: 3.66)"
+    "Improved AI response reliability by 30% through LLM evaluation and prompt optimization workflows",
+    "Developed RESTful APIs enabling enterprise platforms to process 15% more transactions daily",
+    "Reduced report generation time by 50% using Python-based data transformation pipelines",
+    "Optimized application performance by 30% through debugging, secure coding, and system tuning",
+    "Supported scalable backend systems handling 30% increased user traffic with reduced payment errors",
+    "Enhanced SQL query performance and reporting efficiency using AWS database optimization techniques",
+    "Built Retrieval-Augmented Generation (RAG) chatbot using LangChain and Hugging Face",
+    "Implemented vector-based similarity search and embedding pipelines for semantic document retrieval",
+    "Patent Holder: 'Patient Obligation Perceiver Using Eye Gestures' (IEEE, 2023)",
+    "Published research papers in IEEE journals",
+    "AWS Certified Developer - Associate (2025)",
+    "Completed Generative AI training using LangChain and Hugging Face",
+    "Master of Science in Computer Science, University of North Texas (GPA: 3.82/4.0)"
   ]
 }
